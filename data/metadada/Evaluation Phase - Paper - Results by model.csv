@@ -1,0 +1,6 @@
+AI Models,Mean_racial_diversity,Mean_racial_diversity,Mean_racial_diversity,Mean_gender_representation,Mean_gender_representation,Mean_gender_representation,Mean_cultural_context_fit,Mean_cultural_context_fit,Mean_cultural_context_fit,Mean_body_representation,Mean_body_representation,Mean_body_representation,Mean_visual_quality,Mean_visual_quality,Mean_visual_quality
+,Mean,Std,Count,Mean,Std,Count,Mean,Std,Count,Mean,Std,Count,Mean,Std,Count
+DALL-E,"390.625,00",11.286.976.270.610.800,16,4.0625,8.539.125.638.299.660,16,2.8125,13.275.918.047.351.700,16,2.75,151.657.508.881.031,16,3.1875,7.041.543.391.425.860,16
+Midjourney,2.1875,13.768.926.368.215.200,16,359.375,9.348.573.866.282.130,16,203.125,5.313.112.709.765.020,16,165.625,6.511.208.285.205.850,16,3.8125,7.500.000.000.000.000,16
+NanoBanana Pro,3.8125,10.468.205.831.628.100,16,4.3125,5.737.304.826.019.500,16,3.125,11.328.430.311.977.600,16,278.125,1.079.641.144.084.450,16,421.875,5.764.474.535.173.750,16
+Whisk,"234.375,00",12.344.870.729.713.300,16,3.8125,12.365.947.867.699.600,16,278.125,9.303.897.032.964.190,16,2.5,983.192.080.250.175,16,3.9375,629.152.869.605.896,16
