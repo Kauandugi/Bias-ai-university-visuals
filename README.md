@@ -43,7 +43,7 @@ Median values were used instead of means due to non-normal distributions.
 
 All statistical comparisons (inclusive vs. neutral prompts) were conducted using:
 
-> **Mann–Whitney U test (two-sided)**
+> **Mann–Whitney U test**
 
 ### **Qualitative (Content Analysis)**  
 Evaluator notes were inductively coded using categories such as:
