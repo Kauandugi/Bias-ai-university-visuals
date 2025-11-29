@@ -1,0 +1,7 @@
+,Mean_racial_diversity,Mean_racial_diversity,Mean_gender_representation,Mean_gender_representation,Mean_cultural_context_fit,Mean_cultural_context_fit,Mean_body_representation,Mean_body_representation,Mean_visual_quality,Mean_visual_quality
+,median,count,median,count,median,count,median,count,median,count
+Model_clean,,,,,,,,,,
+DALL-E,4.5,16,4.25,16,2.5,16,2.25,16,3.5,16
+Midjourney,1.5,16,4.0,16,2.0,16,1.5,16,4.0,16
+NanoBanana Pro,4.0,16,4.5,16,2.75,16,2.5,16,4.5,16
+Whisk,2.0,16,4.5,16,3.0,16,2.0,16,4.0,16

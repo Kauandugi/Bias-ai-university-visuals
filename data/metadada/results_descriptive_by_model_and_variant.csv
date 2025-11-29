@@ -1,0 +1,11 @@
+,,Mean_racial_diversity,Mean_racial_diversity,Mean_gender_representation,Mean_gender_representation,Mean_cultural_context_fit,Mean_cultural_context_fit,Mean_body_representation,Mean_body_representation,Mean_visual_quality,Mean_visual_quality
+,,median,count,median,count,median,count,median,count,median,count
+Model_clean,Prompt_variant,,,,,,,,,,
+DALL-E,Inclusive,4.5,8,4.5,8,4.25,8,4.5,8,3.5,8
+DALL-E,Neutral,4.0,8,4.0,8,1.5,8,1.5,8,3.0,8
+Midjourney,Inclusive,3.25,8,4.0,8,2.0,8,1.5,8,3.75,8
+Midjourney,Neutral,1.0,8,4.0,8,2.0,8,1.5,8,4.25,8
+NanoBanana Pro,Inclusive,4.0,8,4.5,8,4.0,8,3.75,8,4.5,8
+NanoBanana Pro,Neutral,4.25,8,4.5,8,2.25,8,2.0,8,4.25,8
+Whisk,Inclusive,2.75,8,4.0,8,2.75,8,3.0,8,4.25,8
+Whisk,Neutral,1.25,8,4.5,8,3.0,8,2.0,8,3.5,8
